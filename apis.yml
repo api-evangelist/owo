@@ -1,0 +1,32 @@
+aid: owo
+name: owo
+description: "A simple link obfuscator/shortener"
+url: https://owo.vc/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: owo
+    description: "A simple link obfuscator/shortener"
+    humanURL: https://owo.vc/api
+    baseURL: https://owo.vc/api
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://owo.vc/api
+common:
+  - type: Website
+    url: https://owo.vc/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
