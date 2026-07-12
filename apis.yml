@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://owo.vc/api
 common:
+  - type: DomainSecurity
+    url: security/owo-domain-security.yml
   - type: Website
     url: https://owo.vc/api
   - type: PublicAPIsListing
