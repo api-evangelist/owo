@@ -39,7 +39,6 @@ apis:
   - name: owo
     description: "A simple link obfuscator/shortener"
     humanURL: https://owo.vc/api
-    baseURL: https://owo.vc/api
     tags:
       - URL Shorteners
     properties:
